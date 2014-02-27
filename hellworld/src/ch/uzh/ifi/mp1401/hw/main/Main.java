@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(final String[] args) {
 		Printer.print("Hello Hell!");
+		Printer.print("Second Hell");
 	}
 
 }
